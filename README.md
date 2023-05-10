@@ -1,4 +1,4 @@
-## William Lengenfelder Resume
+## Employees Management App
 
 It is a small application to manage employees with CRUD operations using .NET 7, Entity Framework, SQL Server, React and Bootstrap technologies.
 
