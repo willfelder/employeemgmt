@@ -1,5 +1,5 @@
 ## William Lengenfelder Resume
-![willfelder](https://user-images.githubusercontent.com/73253144/196239737-41dd6281-a9b8-4b53-ad30-fc921140a90e.png)
+![Screenshot_1](https://github.com/willfelder/employeemgmt/assets/73253144/319c21de-6de2-4ebe-8b9f-99822bb446b0)
 
 ## Features
 - .NET 7.
