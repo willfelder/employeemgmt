@@ -1,4 +1,7 @@
 ## William Lengenfelder Resume
+
+It is a small application to manage employees with CRUD operations using .NET 7, Entity Framework, SQL Server, React and Bootstrap technologies.
+
 ![Screenshot_1](https://github.com/willfelder/employeemgmt/assets/73253144/319c21de-6de2-4ebe-8b9f-99822bb446b0)
 ![Screenshot_2](https://github.com/willfelder/employeemgmt/assets/73253144/f5a2e057-d155-4800-b826-84471c232916)
 ![Screenshot_3](https://github.com/willfelder/employeemgmt/assets/73253144/e2430267-4112-409b-adb3-0ec328d71876)
