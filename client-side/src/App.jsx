@@ -1,10 +1,13 @@
 import TableOfUsers from "./components/TableOfUsers";
+import UserTasksContextProvider from "./context/UserTasksContext";
 
 const App = () => {
 
   return (
     <>
-    <TableOfUsers />
+    <UserTasksContextProvider>
+      <TableOfUsers />
+    </UserTasksContextProvider>
     </>
   )
 }
